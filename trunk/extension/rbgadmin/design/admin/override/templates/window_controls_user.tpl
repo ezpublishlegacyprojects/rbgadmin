@@ -4,8 +4,8 @@
 <ul>
     <li class="label">
     {'Show / Hide : '|i18n( 'design/admin/node/view/full' )}
-    </li>   
-   	{* Content preview. *}
+    </li>
+    {* Content preview. *}
     {section show=ezpreference( 'admin_navigation_content' )}
     <li class="enabled">
     <div class="button-bc"><div class="button-tl"><div class="button-tr"><div class="button-br">

@@ -44,7 +44,7 @@ div#search
 {
 	margin: 0.8em 1em 0 0;
     float: right;
-	
+
 }
 
 div#search form
@@ -136,17 +136,17 @@ div#topmenu li, div#topmenu li div
     padding: 0;
     display: block;
     float: left;
-	
+
 }
 
 div#topmenu li
 {
     background-image: url(../images/topmenu-entry.gif);
-    background-position: top left; 
+    background-position: top left;
     background-repeat: no-repeat;
     background-color: #254b71;
 
-	
+
 }
 
 div#topmenu li.selected
@@ -156,7 +156,7 @@ div#topmenu li.selected
 }
 
 div#topmenu li div
-{	
+{
 }
 
 div#topmenu li.first div
@@ -233,7 +233,7 @@ span.disabled, label.disabled
 
 div#path-design
 {
-    background-color: #ffffff; 
+    background-color: #ffffff;
     background-position: top left;
     background-repeat: repeat-x;
     padding: 0.5em;
@@ -389,12 +389,12 @@ div#leftmenu div.box-br, div#rightmenu div.box-br
 
 div#leftmenu div#content-tree div.box-content
 {
-    padding: 0 1px 0.5em 1px; 
+    padding: 0 1px 0.5em 1px;
 }
 
 div#leftmenu div.box-content
 {
-    padding: 0.25em 0.5em 0.5em 0.5em;  
+    padding: 0.25em 0.5em 0.5em 0.5em;
 }
 
 div#leftmenu div.box-content p
@@ -405,7 +405,7 @@ div#leftmenu div.box-content p
 
 div#leftmenu div.box-content div.block
 {
-    padding: 0.25em 0 0.25em 0;  
+    padding: 0.25em 0 0.25em 0;
 }
 
 div#leftmenu div.box-content div.element p
@@ -415,12 +415,12 @@ div#leftmenu div.box-content div.element p
 
 div#rightmenu div.box-content
 {
-    padding: 0.3em 0.3em 0.5em 0.3em;  
+    padding: 0.3em 0.3em 0.5em 0.3em;
 }
 
 div#rightmenu div.box-content div.block
 {
-    padding: 0.25em 0.5em 0.25em 0.3em;  
+    padding: 0.25em 0.5em 0.25em 0.3em;
 }
 
 div#leftmenu div.translations label
@@ -484,7 +484,7 @@ div.widthcontrol span.current, div.settings span.current
     text-decoration: none;
 }
 
-div#rightmenu 
+div#rightmenu
 {
     float: right;
     width: 13em;
@@ -639,7 +639,7 @@ div#contentstructure
 
 div#contentstructure ul#content_tree_menu
 {
-    margin-top: 0;    
+    margin-top: 0;
     margin-left: 0.25em;
     padding-left: 0.5em;
 }
@@ -669,7 +669,7 @@ div#contentstructure ul#content_tree_menu ul li
     padding-top: 0;
     padding-left: 20px;
     padding-bottom: 4px;
-    background-image: url(../images/bg_content_tree_li.gif); 
+    background-image: url(../images/bg_content_tree_li.gif);
     background-repeat: no-repeat;
 }
 
@@ -863,13 +863,13 @@ div.menu-block a
 
 div.menu-block li.enabled a
 {
-    color: #000000;	
+    color: #000000;
     background-image: url(../images/button-enabled-bl.gif);
     background-position: bottom left;
     background-repeat: no-repeat;
 }
 
-div.menu-block li.label 
+div.menu-block li.label
 {
     font-size: 0.85em;
 	color: #666666;
@@ -1071,7 +1071,7 @@ div.controlbar div.box-br
 div.mainobject-window
 {
     background-color: #f8f8f4;
-    margin: 0 1px 0 1px;    
+    margin: 0 1px 0 1px;
     padding: 0 0 0 0.5em;
     border: 6px solid #ecece4;
 }
@@ -1134,14 +1134,14 @@ div.header-mainline
 {
     font-size: 1px;
     height: 7px;
-    margin: 0 1px 0 1px;    
+    margin: 0 1px 0 1px;
 }
 
 div.header-subline
 {
     font-size: 1px;
     height: 0px;
-    margin: 0 1px 0 1px;    
+    margin: 0 1px 0 1px;
 }
 
 div.header-mainline
@@ -1150,7 +1150,7 @@ div.header-mainline
     background-repeat: repeat-y;
     background-position: top left;
     background-color: #ef8c00;
-} 
+}
 
 div.header-subline
 {
@@ -1192,7 +1192,7 @@ div.context-block table.list, div.context-block table.special
 div.context-toolbar
 {
     background-color: #ffffff;
-	
+
 }
 
 div.context-toolbar div.block
@@ -1297,7 +1297,7 @@ div.context-toolbar a:hover
 
 div.context-attributes
 {
-    background-color: #ffffff;	
+    background-color: #ffffff;
     padding: 0.5em 0.5em 0.5em 0.5em;
 }
 
@@ -1323,7 +1323,7 @@ div.attribute-byline p.date
 }
 
 a.nodeicon
-{ 
+{
   text-decoration: none;
 }
 
@@ -1351,7 +1351,7 @@ div.controlbar label
 {
     display: inline;
     color: #979690;
-	
+
 }
 
 div.content-control
@@ -1545,7 +1545,7 @@ table.cache th
 {
     background-color: transparent;
     border-top: none;
-    border-right: none;    
+    border-right: none;
     vertical-align: middle;
     padding-left: 0.5em;
 }
@@ -1559,7 +1559,7 @@ div.content-viewindex ul
 
 div.content-viewindex li
 {
-    list-style-type: none;    
+    list-style-type: none;
 }
 
 
@@ -1659,7 +1659,7 @@ div.popupmenu
     border: 2px solid #ffffff;
     border-bottom-color: #bfbeb6;
     border-right-color: #bfbeb6;
-    z-index: +1; 
+    z-index: +1;
 
     /* These two are essential */
     position: absolute;
@@ -1871,7 +1871,7 @@ div.previous del
     color: #000000;
     background-color: #ffff00;
     border-bottom: none;
-    text-decoration: none   
+    text-decoration: none;
 }
 
 div.latest del
